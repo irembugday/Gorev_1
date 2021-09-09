@@ -1,0 +1,15 @@
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\EntitiyLayer.dll.config
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\irem buğday\Desktop\Staj\MVCProjeKampi\MVCProje\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
